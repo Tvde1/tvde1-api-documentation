@@ -261,6 +261,6 @@ Takes one image and returns a `message` property with what it thinks is in the i
 
 Takes a `url` argument and returns an `image` property (as a base64 string).
 
--
+---
 
 Someone improve this with examples for me lol
