@@ -122,44 +122,44 @@ The image will be encoded in a base64 string.
 
 These are the routes that use the standard format:
 
-* 9gag
-* attractive
-* bandicam
-* brazzers
-* dead
-* deepfry
-* depression
-* desert
-* disabled
-* disguise
-* emojiface
-* garbage
-* hassciencegonetoofar
-* hypercam
-* ifunny
-* imadethis
-* jackoff
-* laid
-* nooseguy
-* objector
-* picklerick
-* spray
-* ss
-* stock
-* uber
-* ugly
-* wdt
-* wrong
+* /9gag
+* /attractive
+* /bandicam
+* /brazzers
+* /dead
+* /deepfry
+* /depression
+* /desert
+* /disabled
+* /disguise
+* /emojiface
+* /garbage
+* /hassciencegonetoofar
+* /hypercam
+* /ifunny
+* /imadethis
+* /jackoff
+* /laid
+* /nooseguy
+* /objector
+* /picklerick
+* /spray
+* /ss
+* /stock
+* /uber
+* /ugly
+* /wdt
+* /wrong
 
 These commands take extra (sometimes optional) parameters
 
-* blur
+* /blur
 
 | Argument | Description |
 | - | - |
 | `radius` | The radius of the circle it should blur with. |
 
-* eyes
+* /eyes
 
 | Argument | Description |
 | - | - |
@@ -167,7 +167,7 @@ These commands take extra (sometimes optional) parameters
 
 Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati', 'money', 'normal', 'pink', 'red', 'small', 'spongebob', 'yellow';
 
-* jpeg
+* /jpeg
 
 | Argument | Description |
 | - | - |
@@ -175,7 +175,7 @@ Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati
 
 1% quality is the most compression an 100% quality is no compression.
 
-* pixelate
+* /pixelate
 
 | Argument | Description |
 | - | - |
@@ -183,33 +183,32 @@ Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati
 
 e.g. 2 means 2x2 pixels would turn into one pixel.
 
-* pornhub
+* /pornhub
 
 | Argument | Description |
 | - | - |
 | `title` | The title the video should use. |
 
-* reminder
+* /reminder
 
 | Argument | Description |
 | - | - |
 | `text` | The text that should be on the reminder. |
 
-* rotate
+* /rotate
 
 | Argument | Description |
 | - | - |
 | `amount` | The amount of degrees an image should be rotated with. |
 
-* sharpen
+* /sharpen
 
 | Argument | Description |
 | - | - |
 | `amunt` | The amount (1 - 100) an image should be sharpened with. |
 
-* watchmojo
+* /watchmojo
 
 | Argument | Description |
 | - | - |
 | `title` | The title of the watchmojo video. |
-
