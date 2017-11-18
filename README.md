@@ -122,44 +122,44 @@ The image will be encoded in a base64 string.
 
 These are the routes that use the standard format:
 
-* /9gag
-* /attractive
-* /bandicam
-* /brazzers
-* /dead
-* /deepfry
-* /depression
-* /desert
-* /disabled
-* /disguise
-* /emojiface
-* /garbage
-* /hassciencegonetoofar
-* /hypercam
-* /ifunny
-* /imadethis
-* /jackoff
-* /laid
-* /nooseguy
-* /objector
-* /picklerick
-* /spray
-* /ss
-* /stock
-* /uber
-* /ugly
-* /wdt
-* /wrong
+* `POST` /9gag
+* `POST` /attractive
+* `POST` /bandicam
+* `POST` /brazzers
+* `POST` /dead
+* `POST` /deepfry
+* `POST` /depression
+* `POST` /desert
+* `POST` /disabled
+* `POST` /disguise
+* `POST` /emojiface
+* `POST` /garbage
+* `POST` /hassciencegonetoofar
+* `POST` /hypercam
+* `POST` /ifunny
+* `POST` /imadethis
+* `POST` /jackoff
+* `POST` /laid
+* `POST` /nooseguy
+* `POST` /objector
+* `POST` /picklerick
+* `POST` /spray
+* `POST` /ss
+* `POST` /stock
+* `POST` /uber
+* `POST` /ugly
+* `POST` /wdt
+* `POST` /wrong
 
 These commands take extra (sometimes optional) parameters
 
-* /blur
+* `POST` /blur
 
 | Argument | Description |
 | - | - |
 | `radius` | The radius of the circle it should blur with. |
 
-* /eyes
+* `POST` /eyes
 
 | Argument | Description |
 | - | - |
@@ -167,7 +167,7 @@ These commands take extra (sometimes optional) parameters
 
 Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati', 'money', 'normal', 'pink', 'red', 'small', 'spongebob', 'yellow';
 
-* /jpeg
+* `POST` /jpeg
 
 | Argument | Description |
 | - | - |
@@ -175,7 +175,7 @@ Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati
 
 1% quality is the most compression an 100% quality is no compression.
 
-* /pixelate
+* `POST` /pixelate
 
 | Argument | Description |
 | - | - |
@@ -183,32 +183,46 @@ Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati
 
 e.g. 2 means 2x2 pixels would turn into one pixel.
 
-* /pornhub
+* `POST` /pornhub
 
 | Argument | Description |
 | - | - |
 | `title` | The title the video should use. |
 
-* /reminder
+* `POST` /reminder
 
 | Argument | Description |
 | - | - |
 | `text` | The text that should be on the reminder. |
 
-* /rotate
+* `POST` /rotate
 
 | Argument | Description |
 | - | - |
 | `amount` | The amount of degrees an image should be rotated with. |
 
-* /sharpen
+* `POST` /sharpen
 
 | Argument | Description |
 | - | - |
-| `amunt` | The amount (1 - 100) an image should be sharpened with. |
+| `amount` | The amount (1 - 100) an image should be sharpened with. |
 
-* /watchmojo
+* `POST` /watchmojo
 
 | Argument | Description |
 | - | - |
 | `title` | The title of the watchmojo video. |
+
+/other
+-
+
+These are some more tools that don't fit in the other categories.  
+They also require authentication.
+
+* `POST` /captionbot
+
+Takes one image and returns a `message` property with what it thinks is in the image.
+
+* `POST` /screenshot
+
+Takes a `url` argument and returns an `image` property (as a base64 string).
