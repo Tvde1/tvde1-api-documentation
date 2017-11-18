@@ -122,33 +122,67 @@ The image will be encoded in a base64 string.
 
 These are the routes that use the standard format:
 
-* `POST` /9gag
-* `POST` /attractive
-* `POST` /bandicam
-* `POST` /brazzers
-* `POST` /dead
-* `POST` /deepfry
-* `POST` /depression
+* `POST` /9gag  
+Adds the 9gag watermark.
+
+* `POST` /attractive  
+[I find these styles very attractive on guys](https://cdn.discordapp.com/attachments/323084621241909259/381549338943553567/attractive.png)
+
+* `POST` /bandicam  
+Adds the bandicam watermark.
+
+* `POST` /brazzers  
+Adds the brazzers watermark.
+
+* `POST` /dead  
+Adds a minecraft death screen overlay.
+
+* `POST` /deepfry  
+"Deep fries".
+
+* `POST` /depression  
+[We asked her to draw what depression feels like.](https://media.discordapp.net/attachments/323084621241909259/381557515818762241/depression.png)
+
 * `POST` /desert
+
 * `POST` /disabled
+
 * `POST` /disguise
+
 * `POST` /emojiface
+
 * `POST` /garbage
+
 * `POST` /hassciencegonetoofar
+
 * `POST` /hypercam
+
 * `POST` /ifunny
+
 * `POST` /imadethis
+
 * `POST` /jackoff
+
 * `POST` /laid
+
 * `POST` /nooseguy
+
 * `POST` /objector
+
 * `POST` /picklerick
+
 * `POST` /spray
+
 * `POST` /ss
+
 * `POST` /stock
+
 * `POST` /uber
+
 * `POST` /ugly
+
 * `POST` /wdt
+
 * `POST` /wrong
 
 These commands take extra (sometimes optional) parameters
@@ -226,3 +260,7 @@ Takes one image and returns a `message` property with what it thinks is in the i
 * `POST` /screenshot
 
 Takes a `url` argument and returns an `image` property (as a base64 string).
+
+-
+
+Someone improve this with examples for me lol
