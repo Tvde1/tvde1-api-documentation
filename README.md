@@ -151,6 +151,8 @@ Adds a minecraft death screen overlay.
 
 * `POST` /emojiface
 
+* `POST` /fear
+
 * `POST` /garbage
 
 * `POST` /hassciencegonetoofar
