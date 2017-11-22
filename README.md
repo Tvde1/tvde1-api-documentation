@@ -96,6 +96,39 @@ Request body:
 }
 ```
 
+* `POST` /edit
+
+This endpoint allows you to change your password/email.
+
+JSON Body:
+
+```json
+{
+    "username": "your username",
+    "password": "your password",
+    "newPassword": "your optional new password",
+    "email": "your optional new email"
+}
+```
+You can leave `newPassword` and `email` out.
+
+The result will contain your new user object.
+
+* `POST` /delete
+
+This endpoint will delete your account.
+
+JSON Body:
+
+```json
+{
+    "username": "your username",
+    "password": "your password"
+}
+```
+
+This will respond with `success: true`.
+
 /image-manipulation
 -
 
