@@ -128,6 +128,7 @@ JSON Body:
 
 This will respond with `success: true`.
 
+/image-manipulation
 -
 
 You need to supply an auth token to use these routes.  
