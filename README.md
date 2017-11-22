@@ -2,7 +2,6 @@
 Documentation of the tvde1-api.
 
 This is an api I put together, mainly for image-manipulation commands, but also for other things.  
-Most routes require authorization.
 
 Base url:
 ##### `https://tvde1-api.herokuapp.com/api/` (Note: will probably change soon.)
@@ -129,7 +128,6 @@ JSON Body:
 
 This will respond with `success: true`.
 
-/image-manipulation
 -
 
 You need to supply an auth token to use these routes.  
@@ -155,34 +153,27 @@ The image will be encoded in a base64 string.
 
 These are the routes that use the standard format:
 
-* `POST` /9gag  
-Adds the 9gag watermark.
+* `POST` /9gag
 
-* `POST` /attractive  
-[I find these styles very attractive on guys](https://cdn.discordapp.com/attachments/323084621241909259/381549338943553567/attractive.png)
+* `POST` /attractive
 
-* `POST` /bandicam  
-Adds the bandicam watermark.
+* `POST` /bandicam
 
-* `POST` /brazzers  
-Adds the brazzers watermark.
+* `POST` /brazzers
 
-* `POST` /dead  
-Adds a minecraft death screen overlay.
+* `POST` /dead
 
-* `POST` /deepfry  
-"Deep fries".
+* `POST` /deepfry
 
-* `POST` /depression  
-[We asked her to draw what depression feels like.](https://media.discordapp.net/attachments/323084621241909259/381557515818762241/depression.png)
+* `POST` /depression
 
 * `POST` /desert
 
 * `POST` /disabled
 
-* `POST` /disguise
+* `POST` /disguise // Requires face
 
-* `POST` /emojiface
+* `POST` /emojiface // Requires face
 
 * `POST` /fear
 
@@ -295,7 +286,3 @@ Takes one image and returns a `message` property with what it thinks is in the i
 * `POST` /screenshot
 
 Takes a `url` argument and returns an `image` property (as a base64 string).
-
----
-
-Someone improve this with examples for me lol
