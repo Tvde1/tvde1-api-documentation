@@ -155,91 +155,91 @@ The image will be encoded in a base64 string.
 These are the routes that use the standard format:
 
 * `POST` /9gag
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/9gag.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/9gag.png)
 
 * `POST` /attractive
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/attractive.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/attractive.png)
 
 * `POST` /bandicam
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/bandicam.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/bandicam.png)
 
 * `POST` /brazzers
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/brazzers.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/brazzers.png)
 
 * `POST` /dead
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/dead.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/dead.png)
 
 * `POST` /deepfry
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/deepfry.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/deepfry.png)
 
 * `POST` /depression
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/depression.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/depression.png)
 
 * `POST` /desert
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/desert.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/desert.png)
 
 * `POST` /disabled
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/disabled.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/disabled.png)
 
 * `POST` /disguise // Requires face
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/disguise.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/disguise.png)
 
 * `POST` /emojiface // Requires face
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/emojiface.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/emojiface.png)
 
 * `POST` /fear
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/fear.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/fear.png)
 
 * `POST` /garbage
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/garbage.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/garbage.png)
 
 * `POST` /hassciencegonetoofar
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/hassciencegonetoofar.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/hassciencegonetoofar.png)
 
 * `POST` /hypercam
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/hypercam.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/hypercam.png)
 
 * `POST` /ifunny
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/ifunny.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/ifunny.png)
 
 * `POST` /imadethis
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/imadethis.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/imadethis.png)
 
 * `POST` /jackoff
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/jackoff.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/jackoff.png)
 
 * `POST` /laid
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/laid.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/laid.png)
 
 * `POST` /nooseguy
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/nooseguy.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/nooseguy.png)
 
 * `POST` /objector
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/objector.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/objector.png)
 
 * `POST` /picklerick
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/picklerick.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/picklerick.png)
 
 * `POST` /spray
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/spray.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/spray.png)
 
 * `POST` /ss
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/ss.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/ss.png)
 
 * `POST` /stock
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/stock.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/stock.png)
 
 * `POST` /uber
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/uber.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/uber.png)
 
 * `POST` /ugly
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/ugly.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/ugly.png)
 
 * `POST` /wdt
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/wdt.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/wdt.png)
 
 * `POST` /wrong
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/wrong.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/wrong.png)
 
 These commands take extra (sometimes optional) parameters
 
@@ -250,7 +250,7 @@ These commands take extra (sometimes optional) parameters
 | `radius` | The radius of the circle it should blur with. |
 
 * `POST` /eyes
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/eyes.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/eyes.png)
 
 | Argument | Description |
 | - | - |
@@ -275,14 +275,14 @@ Available eyes: 'big', 'blood', 'blue', 'googly', 'green', 'horror', 'illuminati
 e.g. 2 means 2x2 pixels would turn into one pixel.
 
 * `POST` /pornhub
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/pornhub.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/pornhub.png)
 
 | Argument | Description |
 | - | - |
 | `title` | The title the video should use. |
 
 * `POST` /reminder
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/reminder.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/reminder.png)
 
 | Argument | Description |
 | - | - |
@@ -301,7 +301,7 @@ e.g. 2 means 2x2 pixels would turn into one pixel.
 | `amount` | The amount (1 - 100) an image should be sharpened with. |
 
 * `POST` /watchmojo
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/watchmojo.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/watchmojo.png)
 
 | Argument | Description |
 | - | - |
@@ -318,6 +318,6 @@ They also require authentication.
 Takes one image and returns a `message` property with what it thinks is in the image.
 
 * `POST` /screenshot
-![Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/screenshot.png)
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/screenshot.png)
 
 Takes a `url` argument and returns an `image` property (as a base64 string).
