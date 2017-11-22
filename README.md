@@ -36,7 +36,7 @@ Authentication:
 Most routes require you to have an auth token. You can obtain it at `/account/authenticate`.  
 You must include it in your headers like this:  
 
-`"Authentication": "Bearer [token]"`
+`"Authorization": "Bearer [token]"`
 
 Routes:
 -
