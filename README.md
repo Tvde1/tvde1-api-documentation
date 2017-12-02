@@ -321,3 +321,8 @@ Takes one image and returns a `message` property with what it thinks is in the i
 [Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/screenshot.png)
 
 Takes a `url` argument and returns an `image` property (as a base64 string).
+
+* `POST` /vote
+[Image](https://raw.githubusercontent.com/Tvde1/tvde1-api-documentation/master/Images/vote.png)
+
+Take a `username` argument and a `text` argument. Returns an image as a base64 string.
